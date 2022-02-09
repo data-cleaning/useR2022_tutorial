@@ -75,7 +75,7 @@ the results amongst each other and make small changes to the scripts.
 
 After the initial exercise, we have a short plenary session where the groups
 give feedback, and the instructors treat the assignment just made. Next,
-the experience just gained is punt into context by treating the theory
+the experience just gained is put into context by treating the theory
 behind them in some more depth. After this, there is a more challenging
 exercise on the same topic.
  
