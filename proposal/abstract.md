@@ -1,4 +1,4 @@
-Statistical data cleaning using R
+## Statistical data cleaning using R
 
 Proposal for a 3 hour workshop on statistical data cleaning.
 
